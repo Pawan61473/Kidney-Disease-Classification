@@ -1,3 +1,12 @@
+Metadata-Version: 2.1
+Name: Kidney_Disease_Classifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/Pawan61473/Kidney-Disease-Classification
+Author: Pawan61473
+Author-email: pawanbharat7@gmail.com
+Project-URL: Bug Tracker, https://github.com/Pawan61473/Kidney-Disease-Classification/issues
+
 # Kidney-Disease-Classification
 
 # How to run?
