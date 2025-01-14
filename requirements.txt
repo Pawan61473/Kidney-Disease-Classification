@@ -1,9 +1,9 @@
-tensorflow==2.18.0
+tensorflow
 pandas 
 dvc
-mlflow==2.2.2
+mlflow
 notebook
-numpy==1.25.2
+numpy
 matplotlib
 seaborn
 python-box
